@@ -1,3 +1,3 @@
 git+https://github.com/creativecgl/higgsfield-unlimited-mcp.git
 fastmcp
-uvicorn
+uvicorn[standard]
